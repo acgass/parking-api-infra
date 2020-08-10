@@ -23,6 +23,9 @@
   "dependencies": {
     "@aws-cdk/aws-dynamodb": "^1.56.0",
     "@aws-cdk/core": "1.56.0",
+    "@aws-cdk/custom-resources": "^1.56.0",
+    "@types/faker": "^4.1.12",
+    "faker": "^4.1.0",
     "source-map-support": "^0.5.16"
   }
 }
